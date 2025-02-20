@@ -4,7 +4,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasonJia9598/Australian_wildfire_FRP/blob/main/A1_EasonJia.ipynb)
 
-Another R code in this repo as well. 
 
 # NASA Satellite Analysis – Australian Wildfires for Insurance Alert (2023)
 
